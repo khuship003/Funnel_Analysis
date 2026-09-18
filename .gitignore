@@ -1,0 +1,4 @@
+echo "data/raw/events.csv" >> .gitignore
+echo "data/cleaned/events_clean.csv" >> .gitignore
+echo "data/cleaned/events_clean.xlsx" >> .gitignore
+echo "funnel_analysis.db" >> .gitignore
